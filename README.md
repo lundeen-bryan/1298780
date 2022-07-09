@@ -37,6 +37,24 @@ Project based on [Statistics for Data Science and Business Analysis](https://www
 
 ## Course Time Tracking
 
+## Saturday 09 July
+
+| Time span          | Task                            |
+| -----------------: | ------------------------------- |
+|          `02:30`   | Finished up to section 3 quiz 3 |
+|        **`02:30`** | **Total**                       |
+
+> _Last update 15:05_ / Lines [valid:2, comments:0]
+
+
+### Notes
+
+I think a good prerequisit course before this one is the [Functional Skills Math Level 1](https://www.udemy.com/course/4048216/) which goes over some basic math concepts before delving into stats.
+
+[Nominal data](http://www.stats.gla.ac.uk/steps/glossary/presenting_data.html#nomdat) is where the data can be assigned a value that is simply a name or label. It can be a number e.g. 0=male and 1=female. Also note [Webster's New World](https://www.yourdictionary.com/nominal) dictionary (4th) states it has a value "whose order is insignificant." In contrast Ordinal data do have a significant order. These are Qualitative values.
+
+[Quantitative values](https://en.wikipedia.org/wiki/Quantitative_research) appear to be measurable on a scale. Interval data does not have a true zero, but ratios do. Ratios show how many times one number can fit inside another number.
+
 
 ---
 
